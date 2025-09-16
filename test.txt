@@ -1,2 +1,0 @@
-git config --local user.name "새로운 계정 이름"
-git config --local user.email "새로운 계정 이메일"
